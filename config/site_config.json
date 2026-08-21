@@ -1,0 +1,32 @@
+{
+  "site_name": "Acme Docs Portal",
+  "owner": "Acme Corp",
+  "contact_email": "docs@acme.example.com",
+  "content_sections": {
+    "guides": {
+      "label": "Guides",
+      "template_files": [
+        "sample-guide-welcome.md",
+        "sample-guide-setup.md"
+      ],
+      "preserve_if_empty": true
+    },
+    "tutorials": {
+      "label": "Tutorials",
+      "template_files": [
+        "sample-tutorial-basics.md",
+        "sample-tutorial-advanced.md",
+        "sample-tutorial-faq.md"
+      ],
+      "preserve_if_empty": false
+    },
+    "resources": {
+      "label": "Resources",
+      "template_files": [
+        "placeholder.txt",
+        "sample-resources.md"
+      ],
+      "preserve_if_empty": true
+    }
+  }
+}
