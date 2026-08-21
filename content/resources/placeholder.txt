@@ -1,2 +1,0 @@
-This directory is reserved for resource links and downloads.
-Placeholder file shipped with the repository template.
