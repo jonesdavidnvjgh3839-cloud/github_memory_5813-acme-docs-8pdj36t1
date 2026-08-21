@@ -1,7 +1,7 @@
-# Acme Docs Portal
+# NovaTech Docs Hub
 
-Welcome to the Acme Corp documentation site, maintained by **Acme Corp**.
+Welcome to the NovaTech Inc documentation site, maintained by **NovaTech Inc**.
 
 This portal contains guides, tutorials, and resources for our customers and partners.
 
-For questions, contact docs@acme.example.com.
+For questions, contact docs@novatech.example.com.
